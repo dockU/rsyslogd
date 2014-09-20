@@ -1,4 +1,4 @@
-FROM docku/service
+FROM dock0/service
 MAINTAINER Jon Chen <bsd@voltaire.sh>
 
 RUN pacman -Syu --needed --noconfirm rsyslog
